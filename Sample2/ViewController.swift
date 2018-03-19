@@ -12,8 +12,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var label: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        label.text = "Hello World"
-        
+        label.text = "規定文を削除Hello Worldを表示"
     }
 
     override func didReceiveMemoryWarning() {
